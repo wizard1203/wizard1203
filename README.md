@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋 -->
-I’m a Post-doctoral Researcher at The Hong Kong University of Science and Technology. I am interested in undersanding how deep learning models are optimized and how they learn knowledge and do reasoning. In next at least one year, I will delve into studying LLM reasoning mechanisms, agent workflow, fast finetuning and inference, and some practical LLMs’ applications. Welcome for any discussions about ML, LLM, ML system, and anything related.
+👋 I’m a Post-doctoral Researcher at The Hong Kong University of Science and Technology. I am interested in undersanding how deep learning models are optimized and how they learn knowledge and do reasoning. In next at least one year, I will delve into studying LLM reasoning mechanisms, agent workflow, fast finetuning and inference, and some practical LLMs’ applications. 💬 Welcome for any discussions about ML, LLM, ML system, and anything related.
 
-I'm maintaining some useful paper reading lists for deep learning and LLM.
+I'm maintaining some useful paper reading lists for deep learning and LLM 🤔.
 
 - [awesome-bayesian-deep-learning](https://github.com/wizard1203/awesome-bayesian-deep-learning)
 
