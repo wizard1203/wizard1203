@@ -13,7 +13,11 @@ I'm maintaining some useful paper reading lists for deep learning and LLM 🤔.
 
 - [awesome-personalized-llm-agents](https://github.com/wizard1203/awesome-personalized-llm-agents)
 
+- [Awesome-ICL-and-Reasoning](https://github.com/wizard1203/Awesome-ICL-and-Reasoning)
 
+- [awesome-LLM-RL](https://github.com/wizard1203/awesome-LLM-RL)
+
+- [awesome-finetuning-LLM-Optimization](https://github.com/wizard1203/awesome-finetuning-LLM-Optimization)
 
 
 <!-- And there are some useful tools for your machine learning research. -->
