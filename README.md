@@ -19,6 +19,7 @@ I'm maintaining some useful paper reading lists for deep learning and LLM 🤔.
 
 - [awesome-finetuning-LLM-Optimization](https://github.com/wizard1203/awesome-finetuning-LLM-Optimization)
 
+- [awesome-LLM-Benchmark-Evaluation](https://github.com/wizard1203/awesome-LLM-Benchmark-Evaluation)
 
 <!-- And there are some useful tools for your machine learning research. -->
 
